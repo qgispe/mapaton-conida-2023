@@ -32,7 +32,7 @@ MAPATÓN CONIDA 2023 🗺️✨
 
 <tr align="center">
     <td>
-      <a href="hugo.aluque@gmail.com"><img border="0" alt="Email" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30" height="35"></a>&nbsp;&nbsp;&nbsp;
+      <a href="mailto:hugo.aluque@gmail.com"><img border="0" alt="Email" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30" height="35"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://twitter.com/hugoaluque"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="35" height="35"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/hhal/"><img border="0" alt="LinkedIn" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" width="35" height="35"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.instagram.com/hugo.aluque/"><img border="0" alt="Instagram" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" width="35" height="35"></a>
